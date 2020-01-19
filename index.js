@@ -4,6 +4,7 @@ const reactRules = {
     "react/jsx-closing-bracket-location": "off",
     "react/prop-types": "off",
     "react/jsx-curly-newline": "off",
+    "react/jsx-wrap-multilines": "off",
 }
 
 const importRules = {
