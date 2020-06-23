@@ -1,20 +1,20 @@
 {
     "name": "@nimashoghi/eslint-config-ui",
-    "version": "0.0.3",
+    "version": "0.0.9",
     "main": "index.js",
     "repository": "https://github.com/nimashoghi/eslint-config-ui.git",
     "author": "Nima Shoghi <nimashoghi@gmail.com>",
     "license": "MIT",
     "peerDependencies": {
-        "@nimashoghi/eslint-config": "^0.0.7",
-        "eslint": "^6.8.0",
-        "typescript": "^3.7.5"
+        "@nimashoghi/eslint-config": "^0.0.9",
+        "eslint": "^7.3.0",
+        "typescript": "^3.9.5"
     },
     "dependencies": {
-        "eslint-config-react-native-wcandillon": "^2.6.0",
-        "eslint-plugin-react-hooks": "^2.3.0"
+        "eslint-config-react-native-wcandillon": "^3.1.1",
+        "eslint-plugin-react-hooks": "^4.0.4"
     },
     "devDependencies": {
-        "prettier": "^1.19.1"
+        "prettier": "^2.0.5"
     }
 }
